@@ -1,28 +1,106 @@
-# Shivam — Developer Portfolio
+<div align="center">
 
-A responsive black-and-white portfolio website with subtle motion effects.
+# SHIVAM KUMAR
 
-## Files
-- `index.html` — page structure and content
-- `style.css` — black/white design, responsive layout, animations
-- `script.js` — mobile navigation, reveal-on-scroll effects and footer year
+### B.Tech CSE Student | Aspiring AI/ML Developer
 
-## Run locally
-1. Download and extract the ZIP.
-2. Open the folder in VS Code.
-3. Open `index.html` in a browser, or use the Live Server extension.
-4. Replace `YOUR_USERNAME` with your GitHub username and `YOUR_LINKEDIN_URL` with your LinkedIn profile URL.
-5. Replace example project links with the actual repository URLs you own.
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Learning+Python+%26+AI%2FML;Building+Projects+with+Code;Learning+Every+Day" alt="Typing animation" />
 
-## Publish the website with GitHub Pages
-1. Create a GitHub repository named `portfolio` (or another name).
-2. Upload `index.html`, `style.css`, and `script.js` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Choose branch `main` and folder `/(root)`, then save.
-6. Wait for GitHub Pages to publish the site; the URL appears in Settings → Pages.
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+</p>
 
-## Profile README
-Create a separate public repository whose name exactly matches your GitHub username. Add a `README.md` file to show content on your GitHub profile. Use `profile-README-template.md` as a starter, and replace placeholders.
+</div>
 
-Important: the portfolio website and GitHub profile README are two separate things. The website can use HTML/CSS/JavaScript; GitHub README supports Markdown and images/SVG, but not arbitrary JavaScript.
+---
+
+## ◼ About Me
+
+- 🎓 B.Tech Computer Science Engineering student
+- 💻 Interested in Software Development and AI/ML
+- 🧠 Practising programming and problem-solving
+- 🚀 Learning by building practical projects
+- 🎯 Goal: Become a skilled developer
+
+## ◼ Languages & Technologies
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+## ◼ Currently Learning
+
+- Data Structures & Algorithms
+- Python for AI and Machine Learning
+- NumPy and Pandas
+- SQL and Database Management
+- Web Development
+- Git and GitHub
+
+## ◼ Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| AI Chatbot | Chatbot to answer user questions | Python, LLM API, FastAPI, SQL |
+| Portfolio | Personal developer portfolio | HTML, CSS, JavaScript |
+| SQL Projects | Database and query practice | SQL, MySQL |
+| C++ DSA | Coding and problem-solving practice | C++ |
+
+> Replace these examples with your actual repositories and project links.
+
+## ◼ GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Most used languages" />
+
+</div>
+
+## ◼ Contribution Activity
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=FFFFFF&line=FFFFFF&point=999999&hide_border=true)
+
+</div>
+
+## ◼ My Developer Mindset
+
+<div align="center">
+
+`LEARN` → `BUILD` → `IMPROVE` → `REPEAT`
+
+*Consistency over perfection.*
+
+</div>
+
+## ◼ Connect With Me
+
+- **GitHub:** https://github.com/YOUR_USERNAME
+- **LinkedIn:** YOUR_LINKEDIN_URL
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=000000&style=flat-square&label=PROFILE+VIEWS)
+
+**Thanks for visiting my profile!**
+
+</div>

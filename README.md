@@ -1,72 +1,28 @@
-# Hi, I'm Shivam 👋
+# Shivam — Developer Portfolio
 
-### B.Tech CSE Student | Aspiring AI/ML Developer
+A responsive black-and-white portfolio website with subtle motion effects.
 
-Welcome to my GitHub profile!
+## Files
+- `index.html` — page structure and content
+- `style.css` — black/white design, responsive layout, animations
+- `script.js` — mobile navigation, reveal-on-scroll effects and footer year
 
-I am a Computer Science Engineering student interested in
-programming, software development, Artificial Intelligence
-and Machine Learning.
+## Run locally
+1. Download and extract the ZIP.
+2. Open the folder in VS Code.
+3. Open `index.html` in a browser, or use the Live Server extension.
+4. Replace `YOUR_USERNAME` with your GitHub username and `YOUR_LINKEDIN_URL` with your LinkedIn profile URL.
+5. Replace example project links with the actual repository URLs you own.
 
-I am learning by building projects and improving my
-problem-solving skills.
+## Publish the website with GitHub Pages
+1. Create a GitHub repository named `portfolio` (or another name).
+2. Upload `index.html`, `style.css`, and `script.js` to the repository root.
+3. Open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Choose branch `main` and folder `/(root)`, then save.
+6. Wait for GitHub Pages to publish the site; the URL appears in Settings → Pages.
 
-## 🎓 About Me
+## Profile README
+Create a separate public repository whose name exactly matches your GitHub username. Add a `README.md` file to show content on your GitHub profile. Use `profile-README-template.md` as a starter, and replace placeholders.
 
-- 🎯 B.Tech Computer Science Engineering
-- 💻 Interested in AI, ML and software development
-- 📚 Learning programming and Data Structures & Algorithms
-- 🛠️ Building projects to gain practical experience
-- 🚀 Goal: Become a skilled software / AI developer
-
-## 💻 Programming Languages
-
-- C++
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-## 📖 Currently Learning
-
-- Data Structures & Algorithms
-- Python for AI and Machine Learning
-- NumPy and Pandas
-- SQL and Database Management
-- Git and GitHub
-- FastAPI and AI application development
-
-## 🧰 Tools & Technologies
-
-- Visual Studio Code
-- Git and GitHub
-- Jupyter Notebook
-- MySQL
-- Firebase
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| AI Chatbot | A chatbot that answers user questions |
-| Web Development | Websites using HTML, CSS and JavaScript |
-| SQL Projects | Database and query practice |
-| C++ DSA | Programming and problem-solving practice |
-
-<!-- Replace these examples with your real repository links. -->
-
-## 📊 GitHub Dashboard
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-## 🌐 Connect With Me
-
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: https://github.com/YOUR_USERNAME
-
----
-
-⭐ Thanks for visiting my profile!
+Important: the portfolio website and GitHub profile README are two separate things. The website can use HTML/CSS/JavaScript; GitHub README supports Markdown and images/SVG, but not arbitrary JavaScript.
